@@ -1,0 +1,30 @@
+.standard-icon {
+  width: 2rem;
+  cursor: pointer;
+  height: auto;
+  fill: #b1b1b1;
+  transition: fill 0.1s linear;
+
+  &:hover {
+    fill: #646464;
+  }
+}
+
+.standard-icon-container {
+}
+
+.three-dots-options-small {
+  width: 1.6rem;
+}
+
+.mute-icon {
+  width: 1.4rem;
+}
+
+.three-dots-options-left-space {
+  margin-left: auto;
+}
+
+.three-dots-options-space {
+  margin-left: 5rem;
+}

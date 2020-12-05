@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Bold';
+  src: local("Bold"), url(../assets/Muli-Bold.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Medium';
+  src: local("Medium"), url(../assets/Muli-SemiBold.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Regular';
+  src: local("Regular"), url(../assets/Muli-Regular.ttf) format("truetype"); }
+
+/*# sourceMappingURL=typography.css.map */

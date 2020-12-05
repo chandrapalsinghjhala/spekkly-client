@@ -1,0 +1,14 @@
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == phone-down {
+    @media (max-width: 37.5em) { @content }; // 600px
+  }
+
+  @if $breakpoint == tab-port-down {
+    @media (max-width: 56.25em) { @content }; // 900px
+  }
+
+  @if $breakpoint == tab-land-down {
+    @media (max-width: 75em) { @content }; // 1200px
+  }
+}

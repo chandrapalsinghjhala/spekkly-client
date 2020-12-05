@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b3a9a70.chunk.css",
+    "main.js": "/static/js/main.379a0610.chunk.js",
+    "main.js.map": "/static/js/main.379a0610.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.1bce3852.chunk.css": "/static/css/2.1bce3852.chunk.css",
+    "static/js/2.bae118b9.chunk.js": "/static/js/2.bae118b9.chunk.js",
+    "static/js/2.bae118b9.chunk.js.map": "/static/js/2.bae118b9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.39783bb433ed4ab89b1d09ba836aee09.js": "/precache-manifest.39783bb433ed4ab89b1d09ba836aee09.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1bce3852.chunk.css.map": "/static/css/2.1bce3852.chunk.css.map",
+    "static/css/main.4b3a9a70.chunk.css.map": "/static/css/main.4b3a9a70.chunk.css.map",
+    "static/js/2.bae118b9.chunk.js.LICENSE.txt": "/static/js/2.bae118b9.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Muli-SemiBold.3217b2cd.ttf",
+    "static/media/checkbox.svg": "/static/media/checkbox.6bc6733e.svg",
+    "static/media/edit.svg": "/static/media/edit.d37d9400.svg",
+    "static/media/facebook.svg": "/static/media/facebook.3ae13bc8.svg",
+    "static/media/google.svg": "/static/media/google.09aea0f5.svg",
+    "static/media/messages.svg": "/static/media/messages.e6956db2.svg",
+    "static/media/off.svg": "/static/media/off.0b3be563.svg",
+    "static/media/settings_check.svg": "/static/media/settings_check.d35c122f.svg",
+    "static/media/success.svg": "/static/media/success.807c3750.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.1bce3852.chunk.css",
+    "static/js/2.bae118b9.chunk.js",
+    "static/css/main.4b3a9a70.chunk.css",
+    "static/js/main.379a0610.chunk.js"
+  ]
+}

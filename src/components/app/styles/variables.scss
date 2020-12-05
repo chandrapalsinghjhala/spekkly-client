@@ -1,0 +1,35 @@
+:root {
+  // containers
+  --nav-container: 130rem;
+  --standard-container: 115rem;
+
+  // colors
+  --primary-color: #467aff;
+  --primary-color-highlighted: #426be2;
+  --background-color: #e8ebf0;
+  --placeholder-color: #989a9e;
+  --disabled-color: #959595;
+  --disabled-color-highlighted: #848484;
+  --hollow-border-color: #bfbfbf;
+  --red-error-color: #D8000C;
+  --button-warning-color: #dc3545;
+  --button-warning-highlighted: #c82333;
+  --input-border-color: #cbcbcb;
+  --background-color-highlighted: #e0e3e8;
+  --black-trash-icon: #969696;
+  --messages-grey-color: #969696;
+
+  // shadows
+  --standard-shadow: 0 14px 28px rgba(0, 0, 0, 0.34);
+  --light-shadow: 0 1px 6px rgba(0,0,0,.15);
+
+  // borders
+  --box-border: 2px solid var(--background-color);
+  --inner-box-shadow: inset 0 0 5px rgba(0,0,0,0.3);
+
+  --input-box-padding: 2.1rem;
+  --messages-navbar-offset: 4rem;
+
+  // scroll bars
+  --standard-scroll-bar-width: 12px;
+}
